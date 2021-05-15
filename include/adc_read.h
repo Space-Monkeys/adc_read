@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-class Conductivity
+class Adc
 {
 private:
 public:
